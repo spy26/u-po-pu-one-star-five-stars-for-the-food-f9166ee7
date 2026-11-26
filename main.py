@@ -40,6 +40,10 @@ def check_sentence(text):
         failures.append("only whitespace")
     if "\n" in text or "\r" in text:
         failures.append("contains a line break")
+    if any(ord(ch) < 32 for ch in text):
+        failures.append("contains a control character")
+    if text != text.strip():
+        failures.append("leading or trailing whitespace")
     terminators = sum(text.count(mark) for mark in (".", "!", "?"))
     if terminators != 1 or not text.endswith("."):
         failures.append("not exactly one sentence")
