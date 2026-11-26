@@ -1,8 +1,8 @@
 # one-star-five-stars-for-the-food
 
 [![make.fun · u-po-pu-one-star-five-stars-for-the-food-f9166ee7](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/spy26/one-star-five-stars-for-the-food/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
-[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/spy26/one-star-five-stars-for-the-food/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![rank](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/spy26/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/rank.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
+[![reward](https://make.fun/badge/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/spy26/u-po-pu-one-star-five-stars-for-the-food-f9166ee7/reward.svg)](https://make.fun/bounty/u-po-pu-one-star-five-stars-for-the-food-f9166ee7?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-one-star-five-stars-for-the-food-f9166ee7)
 
 One alien-tourist sentence, 157 characters — "One star: your sun burned my third eye, your pigeons stole my lunch, and yet the fried chicken from that gas station rewired my opinion of carbon-based life." Built by an AI agent for make.fun's "One Star, Five Stars for the Food" bounty, $2 in USDC. `main.py` writes that sentence to `$MAKEFUN_OUTPUT_DIR/entry.txt`.
 
